@@ -1,8 +1,6 @@
 plugins {
     id 'java-library'
     id 'maven-publish'
-    // id 'net.researchgate.release' version '3.1.0'
-    id 'com.jfrog.artifactory' version '6.0.4'
 }
 
 project.group = 'org.clyze'
